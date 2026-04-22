@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 Junior IT student @ UIT Vietnam<br>💻 Building with Python, C++, JS, Java — whatever the project needs<br>📊 Big data with Spark & Hadoop | ML with LSTM, CNN, RNN, GRU & more<br>🔍 Curious about how things work under the hood, and how to make them faster<br>🚀 Always learning, always shipping | Open to collaborating
+▸ Junior IT student @ UIT Vietnam<br>▸ Building with Python, C++, JS, Java — whatever the job needs<br>▸ Big data with Spark & Hadoop | ML with LSTM, CNN, RNN, GRU & more<br>▸ Curious about how things work under the hood — and how to make them faster<br>▸ Always learning, always shipping | Open to collaborating
 
 
 ## 🌐 Socials:
